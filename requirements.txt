@@ -1,0 +1,12 @@
+beniget==0.5.1
+gast==0.7.0
+numpy==2.5.5
+pandas==3.1.1
+ply==3.11
+pygame==2.6.1
+python-dateutil==4.0.0
+pythran==0.19.0
+scipy==1.18.1
+setuptools==84.2.1
+tqdm==4.70.1
+tzdata==2026.6
